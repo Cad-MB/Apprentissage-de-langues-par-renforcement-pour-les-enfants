@@ -1,1 +1,1 @@
-# Apprentissage-de-langues-par-renforcement-pour-les-enfants
+Application mobile d'apprentissage (Mobile Learning M-Learning) simplement avec Android Studio.
